@@ -7,10 +7,7 @@ path="res://.import/purple.png-844a0d700820f7245b6d600a65da611a.stex"
 [deps]
 
 source_file="res://sprites/purple.png"
-source_md5="071892d0b7fe98c67a560d7ce8f32737"
-
 dest_files=[ "res://.import/purple.png-844a0d700820f7245b6d600a65da611a.stex" ]
-dest_md5="a4499152db9106b9e5da446b6290c960"
 
 [params]
 
